@@ -28,7 +28,7 @@ Full-stack Software Engineer focused on building real-world systems, secure APIs
 
 **Database**
 - PostgreSQL
-- MySQL
+- Oracle
 
 **DevOps / Tools**
 - Git & GitHub
